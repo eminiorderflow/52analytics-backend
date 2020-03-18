@@ -1,0 +1,55 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="12">
+            <item index="0" class="java.lang.String" itemvalue="jdcal" />
+            <item index="1" class="java.lang.String" itemvalue="pandas" />
+            <item index="2" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="3" class="java.lang.String" itemvalue="virtualenv" />
+            <item index="4" class="java.lang.String" itemvalue="kiwisolver" />
+            <item index="5" class="java.lang.String" itemvalue="cycler" />
+            <item index="6" class="java.lang.String" itemvalue="et-xmlfile" />
+            <item index="7" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="8" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="9" class="java.lang.String" itemvalue="Django" />
+            <item index="10" class="java.lang.String" itemvalue="channels" />
+            <item index="11" class="java.lang.String" itemvalue="daphne" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="pivots.models.SymbolList.*" />
+          <option value="pivots.models.IntradaySMA.*" />
+          <option value="pivots.models.MetaTable.objects" />
+          <option value="pivots.models.IntradayVWAP.*" />
+          <option value="pivots.models.LookbackPeriod.*" />
+          <option value="pivots.models.WeeklyVWAP.objects" />
+          <option value="pivots.models.IntradayVPOC.objects" />
+          <option value="pivots.models.IntradayIB.objects" />
+          <option value="pivots.models.IntradayDelDiv.objects" />
+          <option value="pivots.models.IntradayRSIDiv.objects" />
+          <option value="pivots.models.IntradayVolDiv.objects" />
+          <option value="pivots.models.EodYestOHLC.objects" />
+          <option value="pivots.models.EodWeekOHLC.objects" />
+          <option value="pandas.tseries.offsets" />
+          <option value="pivots.models.EodTodayOHLC.objects" />
+          <option value="pivots.models.EodWeekHL.objects" />
+          <option value="pivots.models.EodMonthHL.objects" />
+          <option value="pivots.models.EodYearHL.objects" />
+          <option value="pivots.models.EodYtdHL.objects" />
+          <option value="pivots.models.EodSMA.objects" />
+          <option value="pivots.models.EodMonthVWAP.objects" />
+          <option value="pivots.models.EODYearVWAP.objects" />
+          <option value="pivots.models.EODYearVPOC.objects" />
+          <option value="pivots.models.IntradayMinuteData.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
